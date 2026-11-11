@@ -1,0 +1,8 @@
+{
+  "name": "Remix ARIF-LAB INVENTORY",
+  "description": "Laboratory Chemical, Glassware, and Equipment Inventory Search System",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
